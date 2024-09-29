@@ -315,7 +315,7 @@ header {
 
 .course-title {
     opacity: .8;
-    color: #dbe0ed !important;
+    /* color: #dbe0ed !important; */
     font-size: 12.5px;
     font-size: 13px;
     font-size: 12px;
